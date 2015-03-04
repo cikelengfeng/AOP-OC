@@ -1,2 +1,2 @@
 # AOP-OC
-a little aop implementation for Objective C
+a tiny aop implementation for Objective C
